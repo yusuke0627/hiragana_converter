@@ -1,3 +1,8 @@
+This project is part of hands on contents.
+If you interested in this app.You can try it via blow Ebook.
+
+https://gihyo.jp/dp/ebook/2024/978-4-297-13994-0
+
 # hiragana_converter
 
 A new Flutter project.
